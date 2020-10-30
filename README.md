@@ -1,2 +1,2 @@
 # vue-js-ibm
-Basic vue.js on IBM Cloud Foundry with CI/CD
+This is a basic vue.js app hosted on IBM Cloud Foundry with CI/CD
