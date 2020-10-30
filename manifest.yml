@@ -3,6 +3,4 @@
      path:./dist
      buildpack:https://github.com/cloudfoundry/staticfile-buildpack.git
      random-route:true
-     memory:128M
- - env:
-     FORCE_HTTPS:true
+     memory:128M 
